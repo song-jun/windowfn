@@ -14,6 +14,8 @@ cnpm i windowfn -D
 
 ```js
 import fn from 'windowfn';
+
+## 方法调用如下
 // js 冒泡排序
 fn.bubbleSort(array)
 // 平均值,小数点可能会有很多位，这里不做处理，处理了使用就不灵活了！
