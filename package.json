@@ -1,0 +1,31 @@
+{
+  "name": "windowfn",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git": "bash git.sh"
+  },
+  "author": "mrsong",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "js",
+    "常用函数封装",
+    "JS方法合集"
+  ],
+  "description": "* 常用函数封装\r * JS方法合集\r * JS\r * 封装\r",
+  "__npminstall_done": "Wed Aug 12 2020 11:16:35 GMT+0800 (GMT+08:00)",
+  "_from": "mrsong@1.1.3",
+  "_resolved": "https://registry.npm.taobao.org/mrsong/download/mrsong-1.1.3.tgz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song-jun/myJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song-jun/myJs/issues"
+  },
+  "homepage": "https://github.com/song-jun/myJs#readme"
+}
